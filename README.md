@@ -25,6 +25,16 @@ Future Enhancements:
 •	Object classification to differentiate humans from pets or vehicles.
 •	Integration with cloud storage for remote monitoring.
 
+# Clone the repo
+git clone https://github.com/your-username/smart-surveillance-opencv.git
+cd smart-surveillance-opencv
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the program
+python smart_surveillance.py
+
 Contributing:
 We welcome contributions! Fork the repo, make your changes, and submit a pull request to help improve the system.
 
