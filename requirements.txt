@@ -1,0 +1,8 @@
+opencv-python
+imutils
+numpy
+smtplib
+email
+tk
+
+pip install -r requirements.txt
