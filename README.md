@@ -26,7 +26,7 @@ Future Enhancements:
 •	Integration with cloud storage for remote monitoring.
 
 # Clone the repo
-git clone https://github.com/your-username/smart-surveillance-opencv.git
+git clone https://github.com/janasruthi04/smart-surveillance-opencv.git
 cd smart-surveillance-opencv
 
 # Install dependencies
