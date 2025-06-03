@@ -1,2 +1,45 @@
-# smart-surveillance-opencv
-Developed a motion-based surveillance system using OpenCV, implementing background subtraction, contour detection, and automated snapshot capture for real-time monitoring. Enhanced security through timestamped image saving and robust motion detection, achieving an estimated accuracy of 90% in detecting motion events.
+Smart Surveillance Detection System using OpenCV 🕵️‍♂️📷
+
+Description:
+The Smart Surveillance Detection System is a powerful real-time motion detection application built using OpenCV. It continuously monitors a video feed (webcam or video file), identifies motion using background subtraction and contour detection, and captures timestamped snapshots whenever motion is detected. This helps in maintaining security and surveillance effectively.
+
+Features:
+
+Real-time motion detection using background subtraction.
+
+Contour detection to filter significant motion.
+
+Automatic snapshot saving with timestamps for event review.
+
+Easy to deploy on any camera feed.
+
+How to Use:
+
+Run the application using your webcam or a video file.
+
+The system displays the live video feed with motion overlays.
+
+Snapshots of detected motion events are saved in the output/ folder.
+
+Review snapshots for security monitoring.
+
+Technologies Used:
+
+Python for core logic.
+
+OpenCV for image processing.
+
+NumPy for efficient array handling.
+
+Future Enhancements:
+
+Email/SMS alerts for motion events.
+
+Object classification to differentiate humans from pets or vehicles.
+
+Integration with cloud storage for remote monitoring.
+
+Contributing:
+We welcome contributions! Fork the repo, make your changes, and submit a pull request to help improve the system.
+
+Stay tuned for more AI projects! If you have suggestions or feedback, let us know. Happy monitoring! 🎥🚨
